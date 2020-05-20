@@ -1,0 +1,152 @@
+body{
+    color:#40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+}
+
+a{
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+h1{
+    margin-top: 0;
+    font-size: 3.625rem;
+    color: #66BFBF;
+}
+h2{
+    padding-bottom: 10px;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    color: #11999E; 
+}
+hr{
+border-style: dotted;
+border-color: #ecfbfc;
+border-width: 6px; 
+border-bottom: none;
+width: 5%;
+margin: 100px auto;
+}
+.top-container
+{
+   background-color: #ecfbfc;
+   padding: 100px;
+}
+.middle-container
+{
+margin: 100px 0;
+}
+.bottom-container
+{
+    background-color: #66BFBF;
+    padding: 50px 0 30px;
+}
+
+.copy-right{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.pro{
+    text-decoration: underline;
+}
+.intro{
+    color:#40514E;
+    width:30%;
+    margin: auto;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 250px;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.skills{
+    color: #66BFBF;
+}
+.web-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.python-image{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+    
+}
+.profile{
+ border-radius: 50%;   
+}
+p{
+    line-height: 2;
+}
+
+.btn {
+
+    background: linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+  
+    background-color: #11cdd4;
+  
+    -webkit-border-radius:8px;
+  
+    -moz-border-radius:8px;
+  
+    border-radius: 8px;
+  
+    display: inline-block;
+  
+    cursor: pointer;
+  
+    color: #ffffff;
+  
+    font-family: 'Montserrat', sans-serif;
+  
+    font-size: 28px;
+  
+    padding: 15px 21px;
+  
+    text-decoration: none;
+  
+  }
+  
+  
+  
+  .btn:hover {
+
+    background: linear-gradient(to bottom, #30E3CB 5%, #2BC4AD 100%);
+  
+    background-color: #30E3CB;
+  
+  }
+  
+  
+  .btn:active {
+  
+    position: relative;
+  
+    top: 1px;
+  
+  }
